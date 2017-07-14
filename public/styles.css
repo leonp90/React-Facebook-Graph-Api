@@ -1,0 +1,11 @@
+#app{
+	margin: 10px;
+}
+.fix-height{
+	height: 30px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.margin-top{
+	margin-top: 10px;
+}

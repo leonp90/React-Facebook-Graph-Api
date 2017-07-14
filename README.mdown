@@ -1,0 +1,17 @@
+# Facebook post with graph api
+
+Intro
+---------------------------
+A React app to test the Facebook API
+
+Run App
+---------------------------
+  - Clone repository
+  - npm i
+  - npm start
+  - Get a 
+  - Open URL http://localhost:3000/ in your browser.
+
+Technologies
+---------------------------
+React, RequireJS, HTML5, Bootstrap v3.0.
