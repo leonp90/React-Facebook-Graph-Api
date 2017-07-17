@@ -9,8 +9,9 @@ Run App
   - Clone repository
   - npm i
   - npm start
-  - Get a 
   - Open URL http://localhost:3000/ in your browser.
+  
+  Note: This is a non registered facebook app, so please use the test user in order to get permissions to post on your facebook wall.
 
 Technologies
 ---------------------------
